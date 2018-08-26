@@ -7,4 +7,4 @@ def calculator(a,b):
     print(d)
     print(e)
     print(f)
-print(calculator(int(input("Enter a.")),))
+print(calculator(int(input("Enter a.")),int(input("Enter b."))))
